@@ -7,11 +7,15 @@
 <br>
 </p>
 <div>
-# CATATAN ( NOTE )
-Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
-
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
-
+<div align="center">
+  
+<a href="<div align="center">
+  
+<a href="https://replit.com/@AbdulquadirJimo/Dux-bot-md?v=1"><img align="center" src="https://replit.com/@AbdulquadirJimo/Dux-bot-md?v=1" alt="Scan QR" height="112" width="300" /></a>
+<br>
+<div>
+<br>
+  
 Best Regards. Hisoka
 
 # Dux-bot-md
